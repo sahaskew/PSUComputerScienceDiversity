@@ -6,10 +6,10 @@
 Sarah Haskew
 Special Guest: Alyssa Tamayo</p>
 
-<h2>OBJECTIVE: 1-2 sentences</h2>
+<h2>OBJECTIVE:</h2>
 <p>To evaluate, with an equity lens, the experience of diverse groups of students within the PSU Computer Science Department.</p>
 
-<h2>APPROACH: 1-2 paragraphs</h2>
+<h2>APPROACH: </h2>
 <p>The team will analyze statistics about student retention and graduation rates within the CS Department, as compared to national CS statistics. Upon approval from the IRB, the team will solicit former and current CS students to participate in surveys about their experiences within the department. Those interviews will be reviewed in order to identify overall themes. 
 
 Utilizing the results of the analyzed data and the trends identified in the student interviews, we will create an overall report of our findings. </p>
