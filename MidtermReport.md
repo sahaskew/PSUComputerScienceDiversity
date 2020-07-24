@@ -2,9 +2,9 @@
 <h2>Diversity and Inclusion in PSU Computer Science Department</h2>
 </br>
 <h2>TEAM MEMBERS:</h2> 
-<p>Danielle Beyer  
-Sarah Haskew  
-Special Guest: Alyssa Tamayo</p>
+<p>Danielle Beyer</p>
+<p>Sarah Haskew</p>  
+<p>Special Guest: Alyssa Tamayo</p>
 
 <h2>OBJECTIVE:</h2>
 <p>To evaluate, with an equity lens, the experience of diverse groups of students within the PSU Computer Science Department.</p>
