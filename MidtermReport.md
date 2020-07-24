@@ -2,8 +2,8 @@
 <h2>Diversity and Inclusion in PSU Computer Science Department</h2>
 </br>
 <h2>TEAM MEMBERS:</h2> 
-<p>Danielle Beyer
-Sarah Haskew
+<p>Danielle Beyer<\br>
+Sarah Haskew<\br>
 Special Guest: Alyssa Tamayo</p>
 
 <h2>OBJECTIVE:</h2>
